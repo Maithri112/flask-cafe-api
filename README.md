@@ -59,7 +59,7 @@ The API allows users to retrieve, add, update, and delete cafe records through s
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/flask-cafe-api.git
+git clone https://github.com/Maithri112/flask-cafe-api.git
 ```
 
 ### 2️⃣ Install Dependencies
